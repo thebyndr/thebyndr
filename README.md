@@ -30,6 +30,7 @@ LINK : https://play.google.com/store/apps/details?id=com.tbradyos
 
 ### 📫 Contact me
 - [MailAddress](bayindir.411@gmail.com)
-- More about my experience on [LinkedIn](https://www.linkedin.com/in/veli-mucteba-bayindir/)
+- [LinkedIn](https://www.linkedin.com/in/veli-mucteba-bayindir/)
+- [Instagram](https://www.instagram.com/the_byndr/)
 - [CV](https://github.com/thebyndr/thebyndr/files/8758031/Veli.Mucteba.Bayindir.CV.pdf)
 
