@@ -1,4 +1,4 @@
-## Veli Müçteba Bayındır 👋
+## Veli Müçteba Bayındır 
 
 ### 🙋‍♂️ About
 
