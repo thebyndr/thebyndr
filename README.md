@@ -1,4 +1,4 @@
-## Hi there, I'm Veli Müçteba Bayındır 👋
+##Veli Müçteba Bayındır 👋
 
 ### 🙋‍♂️ About
 
