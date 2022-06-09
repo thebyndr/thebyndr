@@ -30,8 +30,8 @@ LINK : https://play.google.com/store/apps/details?id=com.tbradyos
 
 - <a href="mailto:bayindir.411@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veli-mucteba-bayindir/)
-- [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_byndr/)
-- [![CV](https://img.shields.io/badge/CV-purple?logo=cv?style=for-the-badge&logoColor=white)](https://github.com/thebyndr/thebyndr/files/8758031/Veli.Mucteba.Bayindir.CV.pdf)
+- [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_byndr/)
+- [![CV](https://img.shields.io/badge/CV-black?logo=cv?style=for-the-badge&logoColor=white)](https://github.com/thebyndr/thebyndr/files/8758031/Veli.Mucteba.Bayindir.CV.pdf)
 
 
 [![Elif Dedim](https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/543bab0d757caf2ad69efe5d3ad7a78c.jpg)](https://www.youtube.com/watch?v=EcBWGENvnsw)
