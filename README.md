@@ -23,9 +23,18 @@ LINK : https://play.google.com/store/apps/details?id=com.tbradyos
 ### 🛠 Platforms, languages and tools
 - Android&IOS
 - React Native
+- React Hooks
+- React Navigation
 - Javascript
 - Google Maps API
 - Firebase
+- Redux
+- Rest API
+- Axios
+- Mobx
+- HTML5
+- CSS
+- Bootstrap
 ### 📫 Contact me
 
 - <a href="mailto:bayindir.411@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
