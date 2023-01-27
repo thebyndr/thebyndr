@@ -10,8 +10,10 @@ While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. Y
 - VALE Old Version Introduction Video
 - https://www.linkedin.com/feed/update/urn:li:activity:6849749052859445248/
 
+
 - My Travel App "TriPlacEasy" is on Google Play Store.(React Native + Firebase)
 - LINK : https://play.google.com/store/apps/details?id=com.TripEZ
+
 
 - My Radio App "TBRadyos" is on Google Play Store (React Native + Firebase)
 - LINK : https://play.google.com/store/apps/details?id=com.tbradyos
