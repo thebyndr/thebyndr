@@ -8,13 +8,14 @@ My 2 mobile apps are in Google Play Store besides these.
 While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. You can download and review.
 
 - VALE Old Version Introduction Video
-https://www.linkedin.com/feed/update/urn:li:activity:6849749052859445248/
+- https://www.linkedin.com/feed/update/urn:li:activity:6849749052859445248/
 
 - My Travel App "TriPlacEasy" is on Google Play Store.(React Native + Firebase)
-LINK : https://play.google.com/store/apps/details?id=com.TripEZ
+- LINK : https://play.google.com/store/apps/details?id=com.TripEZ
 
 - My Radio App "TBRadyos" is on Google Play Store (React Native + Firebase)
-LINK : https://play.google.com/store/apps/details?id=com.tbradyos
+- LINK : https://play.google.com/store/apps/details?id=com.tbradyos
+
 
 - Dentur Avrasya Mobil App
 - Play Store LINK : https://play.google.com/store/apps/details?id=com.denturavrasya
