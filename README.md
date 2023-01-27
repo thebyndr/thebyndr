@@ -22,7 +22,7 @@ While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. Y
 
 <br/>
 
-- Dentur Avrasya Mobil App
+- Dentur Avrasya Mobile Application
 - Play Store LINK : https://play.google.com/store/apps/details?id=com.denturavrasya
 - Apple Store LINK : https://apps.apple.com/tr/app/dentur-avrasya/id6444819767?l=tr
 
