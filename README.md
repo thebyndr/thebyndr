@@ -33,7 +33,7 @@ While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. Y
  [TBRadyos](https://github.com/thebyndr/TBRadyos)
  
  - ![DenturLogo](https://user-images.githubusercontent.com/57766774/215188097-19479d58-9fe3-4d6f-81b0-028509b05564.jpeg)
- [Dentur Avrasya](https://github.com/thebyndr/denturAvrasyaMobileApp)
+ [Dentur Avrasya](https://apps.apple.com/tr/app/dentur-avrasya/id6444819767?l=tr)
 
 ### 🛠 Platforms, languages and tools
 - Android&IOS
