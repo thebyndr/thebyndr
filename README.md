@@ -27,7 +27,7 @@ While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. Y
 
 - [![](https://img.shields.io/badge/Play%20Store%20%40Dentur%20Avrasya-white?style=for-the-badge&logo=google&logoColor=blue)](https://play.google.com/store/apps/details?id=com.denturavrasya)
 
-### Projects I have done
+### Projects Repos I have done
 -  ![ValeLogo](https://user-images.githubusercontent.com/57766774/170040224-90cea764-1166-4e75-9e72-3e3d91a2306e.png)  [Vale](https://github.com/thebyndr/Vale)
 - ![TripLogo](https://user-images.githubusercontent.com/57766774/169895276-31fbc45c-ae3c-4bbb-bbee-6b511efe21cd.png)  [TriPlacEasy](https://github.com/thebyndr/TriPlaceEasy-ReadMe)
 - ![TBRadyosLOGO](https://user-images.githubusercontent.com/57766774/169895450-4678cd18-1e85-44f1-8a89-718a15a43926.PNG)
