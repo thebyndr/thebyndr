@@ -58,8 +58,8 @@ While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. Y
 <!-- - [![CV](https://img.shields.io/badge/CV-black?logo=cv?style=for-the-badge&logoColor=white)](https://github.com/thebyndr/thebyndr/files/8758031/Veli.Mucteba.Bayindir.CV.pdf) -->
 
 
-[![Elif Dedim](https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/543bab0d757caf2ad69efe5d3ad7a78c.jpg)](https://www.youtube.com/watch?v=EcBWGENvnsw)
-
+<!--[![Elif Dedim](https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/543bab0d757caf2ad69efe5d3ad7a78c.jpg)](https://www.youtube.com/watch?v=EcBWGENvnsw)
+-->
 
 
 
