@@ -8,23 +8,24 @@ My 2 mobile apps are in Google Play Store besides these.
 While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. You can download and review.
 
 - VALE Old Version Introduction Video
-- https://www.linkedin.com/feed/update/urn:li:activity:6849749052859445248/
-
+- [![](https://img.shields.io/badge/Linkedin%20Video%20%40Vale-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/feed/update/urn:li:activity:6849749052859445248/)
 <br/>
 
-- My Travel App "TriPlacEasy" is on Google Play Store.(React Native + Firebase)
-- LINK : https://play.google.com/store/apps/details?id=com.TripEZ
+- My Travel App "TriPlacEasy" is on Google Play Store.(React Native + Firebase) 
+- [![](https://img.shields.io/badge/Play%20Store%20%40TriPlacEasy-white?style=for-the-badge&logo=Google&logoColor=blue)](https://play.google.com/store/apps/details?id=com.TripEZ)
+
+
 
 <br/>
 
 - My Radio App "TBRadyos" is on Google Play Store (React Native + Firebase)
-- LINK : https://play.google.com/store/apps/details?id=com.tbradyos
-
+- [![](https://img.shields.io/badge/Play%20Store%20%40TBRadyos-white?style=for-the-badge&logo=Google&logoColor=blue)](https://play.google.com/store/apps/details?id=com.tbradyos)
 <br/>
 
 - Dentur Avrasya Mobile Application
-- Play Store LINK : https://play.google.com/store/apps/details?id=com.denturavrasya
-- Apple Store LINK : https://apps.apple.com/tr/app/dentur-avrasya/id6444819767?l=tr
+- [![](https://img.shields.io/badge/App%20Store%20%40Dentur%20Avrasya-white?style=for-the-badge&logo=apple&logoColor=black)](https://apps.apple.com/tr/app/dentur-avrasya/id6444819767?l=tr)
+
+- [![](https://img.shields.io/badge/Play%20Store%20%40Dentur%20Avrasya-white?style=for-the-badge&logo=google&logoColor=blue)](https://play.google.com/store/apps/details?id=com.denturavrasya)
 
 ### Projects I have done
 -  ![ValeLogo](https://user-images.githubusercontent.com/57766774/170040224-90cea764-1166-4e75-9e72-3e3d91a2306e.png)  [Vale](https://github.com/thebyndr/Vale)
