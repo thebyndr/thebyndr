@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ About
 
-I am a 4th year student at Istanbul University-Cerrahpasa Computer Engineering. I am dealing with Mobile Application Development and Web Development.
+I graduated from Istanbul University-Cerrahpasa Computer Engineering in July 2023. I am dealing with Mobile Application Development (React Native - Flutter - Java) and Web Development.
 I did the Mobile Application (with React Native) of the VALE Smart Parking System that we prepared for Teknofest within the IEEE. Currently, We made the website (Responsive) of OYEUS Forest Fire System, which we prepared for Teknofest, within the body of IEEE.I continue to improve myself day by day. 
 My 2 mobile apps are in Google Play Store besides these. 
 While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. You can download and review.
@@ -39,7 +39,10 @@ While working at D1-Tech Company I made the Dentur Avrasya Mobile Application. Y
 ### 🛠 Platforms, languages and tools
 - Android&IOS
 - React Native
+- Flutter
 - Redux
+- BLoC Pattern
+- Java
 - React Hooks
 - React Navigation
 - Javascript
